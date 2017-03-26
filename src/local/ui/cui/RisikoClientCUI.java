@@ -47,7 +47,5 @@ public class RisikoClientCUI {
 		}
 		
 	}
-	
-
-
+	//unnötiger Kommentar
 }
